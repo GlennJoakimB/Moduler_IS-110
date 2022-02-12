@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 /**
- * Write a description of class Handleliste here.
+ * Handleliste over varer man trenger.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Glenn Jaokim)
+ * @version (11/02/2022)
  */
 public class Handleliste
 {
-    // instance variables - replace the example below with your own
     private ArrayList<Vare> list;
 
     /**
@@ -27,11 +26,16 @@ public class Handleliste
      */
     public void AddItem(String name)
     {
-        // put your code here
         list.add(new Vare(name));
     }
     
-    
+    public void ListItems()
+    {
+        //
+        for(Vare v : list) {
+            System.out.println(v.GetName());
+        }
+    }
     
     public void RemoveItem(int index)
     {
