@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Vare
+comment0.text=\r\n\ En\ handleVare\ fra\ butikken\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 04/02/2022\r\n
+comment1.params=name
+comment1.target=Vare(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vare\r\n
+comment2.params=
+comment2.target=java.lang.String\ GetName()
+numComments=3
