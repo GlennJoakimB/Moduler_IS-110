@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Potion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Potion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ value
+comment1.target=Potion(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Potion\r\n
+comment2.params=
+comment2.target=java.lang.String\ GetName()
+comment3.params=
+comment3.target=int\ GetValue()
+numComments=4
