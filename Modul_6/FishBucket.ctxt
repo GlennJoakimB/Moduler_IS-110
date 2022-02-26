@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FishBucket
+comment0.text=\r\n\ A\ FishBucket\ for\ storing\ the\ number\ of\ items\ collected\ from\ the\ pond,\r\n\ as\ well\ as\ ceeping\ track\ and\ displaying\ when\ one\ of\ every\ item\ is\ collected.\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 23/02/2022\r\n
+comment1.params=
+comment1.target=FishBucket()
+comment1.text=\r\n\ Constructs\ a\ FishBucket\ for\ storing\ the\ items\ collected\ from\ the\ pond.\r\n
+comment2.params=item
+comment2.target=void\ add(java.lang.String)
+comment2.text=\r\n\ Adds\ an\ item\ to\ the\ bucket\ for\ counting.\r\n\r\n\ @param\ item\ \ A\ string\ object\ to\ add\ to\ the\ bucket\r\n\ @return\ \ \ \ \ \ void\r\n
+comment3.params=
+comment3.target=void\ showCount()
+comment3.text=\r\n\ Display\ the\ count\ of\ items\ in\ the\ bucket\r\n
+comment4.params=
+comment4.target=void\ completeCollection()
+comment4.text=\r\n\ A\ method\ for\ checking\ if\ the\ bucket\ contains\ one\ of\ every\ available\r\n\ item\ from\ the\ pond\r\n\ \r\n\ @return\ \ void\r\n
+numComments=5

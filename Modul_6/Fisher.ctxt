@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fisher
+comment0.text=\r\n\ A\ fisher\ that\ wants\ to\ get\ some\ fish.\r\n\ The\ hook\ will\ return\ with\ a\ random\ item.\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 23/02/2022\r\n
+comment1.params=
+comment1.target=Fisher()
+comment1.text=\r\n\ Constructor\ for\ the\ game\r\n
+comment2.params=
+comment2.target=void\ throwHook()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=void\ displayBucket()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ fillResponse()
+comment4.text=\r\n\ Fill\ the\ hashmap\ response\ with\ responses.\r\n
+numComments=5

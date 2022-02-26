@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ A\ dice\ with\ a\ flexible\ amount\ of\ sides.\r\n\ Roll\ the\ dice\ to\ generate\ a\ sudo-random\ number.\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 25/02/2022\r\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Constructs\ a\ Dice\r\n
+comment2.params=y
+comment2.target=void\ rollDice(int)
+comment2.text=\r\n\ Generate\ a\ random\ number\ between\ 1\ and\ y\r\n\ \r\n\ @param\ y\ \ \ \ \ Number\ of\ sides\ on\ the\ dice\r\n\ @return\ void\r\n
+numComments=3

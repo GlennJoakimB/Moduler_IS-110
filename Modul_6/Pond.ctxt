@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pond
+comment0.text=\r\n\ A\ pond\ that\ holds\ many\ mysteries\ deep\ below\ the\ surface.\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 23/02/2022\r\n
+comment1.params=
+comment1.target=Pond()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pond\r\n
+comment2.params=
+comment2.target=java.lang.String\ generateCatch()
+comment2.text=\r\n\ Generates\ a\ random\ catch\r\n\r\n\ @return\ \ \ \ Random\ string\ from\ list\r\n
+comment3.params=
+comment3.target=void\ fillPond()
+comment3.text=\r\n\ Fills\ the\ pond\ with\ items\r\n
+numComments=4

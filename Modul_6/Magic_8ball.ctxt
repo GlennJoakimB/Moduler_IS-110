@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Magic_8ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Magic_8ball\ here.\r\n\r\n\ @author\ Glenn\ Joakim\r\n\ @version\ 23/02/2022\r\n
+comment1.params=
+comment1.target=Magic_8ball()
+comment1.text=\r\n\ Constructs\ a\ Magic_8ball\r\n
+comment2.params=input
+comment2.target=void\ ask(java.lang.String)
+comment2.text=\r\n\ Ask\ the\ 8ball\ a\ question,\ and\ an\ answer\ will\ be\ given\ if\ the\ parameter\ ends\r\n\ with\ a\ question-mark.\ If\ there\ is\ no\ question-mark,\ a\ message\ is\ printed.\r\n\ \r\n\ @param\ \ \ question\ \ \ \ A\ full\ question\ in\ the\ form\ of\ a\ string\r\n\ @return\ \ void\r\n
+comment3.params=
+comment3.target=void\ giveResponse()
+comment3.text=\r\n\ Prints\ out\ a\ random\ response\ between\ yes,\ no\ and\ maybe.\r\n\ \r\n\ @return\ \ void\r\n
+numComments=4
