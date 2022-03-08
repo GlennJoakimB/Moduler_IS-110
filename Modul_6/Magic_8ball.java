@@ -27,7 +27,7 @@ public class Magic_8ball
     public void ask(String input)
     {
         input.trim();
-        if(input.contains("?")){
+        if(input.endsWith("?")){
             giveResponse();
         } else {
             System.out.println("Was that a question?");
